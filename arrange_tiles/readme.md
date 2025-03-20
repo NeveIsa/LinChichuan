@@ -1,4 +1,5 @@
-0. Create a python virtual environment and actiavet it
+0a. Make sure you have `make` installed.
+0b. Create a python virtual environment and activate it
 1. To install the dependencies, run `make deps`
 2. List all tile shapes in a json file (default is tiles.json)
 3. To execute the program using default arguments, run `make`
